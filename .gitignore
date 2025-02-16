@@ -41,6 +41,10 @@ htmlcov/
 .tox/
 .nox/
 .coverage
+venvnew
+venvnew/
+venv/
+venv
 .coverage.*
 .cache
 nosetests.xml
